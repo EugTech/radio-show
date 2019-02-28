@@ -3,7 +3,7 @@
 ## SHORT Blurb about it to read on the radio
 The radio show is about 5 minutes long.
 
-## do you wnat to be on the show 7AM Thursday?
+## do you want to be on the show 7AM Thursday?
 - [ ] Yes
 - [ ] No
 

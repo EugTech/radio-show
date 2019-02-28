@@ -1,6 +1,6 @@
 ## Name of Topic or Event (What)
 
-## SHORT Blurb about it to read on the radio
+## SHORT Blurb about to read on the radio
 The radio show is about 5 minutes long.
 
 ## do you want to be on the show 7AM Thursday?

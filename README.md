@@ -1,5 +1,6 @@
 # radio-show
-planning for the radio show
+
+Welceom to the Tech Thursday Radio Show planning and repo.  We're glad you are here!  :tada:
 
 If you have something you would like to talk about on the 7:15AM TechThursday LIVE RADIO SHOW please create an issue above.  Be sure to include What, When and Where, and a blurb.
 

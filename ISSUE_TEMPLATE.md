@@ -1,9 +1,9 @@
 ## Name of Topic or Event (What)
 
 ## SHORT Blurb about to read on the radio
-The radio show is about 5 minutes long.
+(The radio show only 5 minutes long)
 
-## do you want to be on the show 7AM Thursday?
+## Do you want talk live on the air, in the radio room 7AM Thursday?
 - [ ] Yes
 - [ ] No
 

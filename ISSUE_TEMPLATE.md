@@ -17,10 +17,10 @@ KUGN radio is located at 1200 Executive Pkwy, Ste 440, Eugene, OR 97401
 
 ## Link to more info
 
-## would you like to be contacted for a video show segment?
+## Would you like to be contacted for a video show segment?
 - [ ] Yes
 - [ ] No
 
-There is a longer format TechTuesday LIVE video stream in the works
+(There is a longer format TechTuesday LIVE video stream in the works)
 
 Thank you!  We're really glad your here :tada:

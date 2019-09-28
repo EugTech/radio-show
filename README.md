@@ -2,7 +2,7 @@
 
 Welcome to the Tech Thursday Radio Show planning and repo.  We're glad you are here!  :tada:
 
-If you have something you would like to talk about on the 7:15AM TechThursday LIVE RADIO SHOW 
+If you have something you would like to talk about on the 7:28AM TechThursday LIVE RADIO SHOW 
 
 ### please [create an issue](https://github.com/EugTech/radio-show/issues/new) :tada: for your segment 
 Be sure to include What, When and Where, and a blurb.
